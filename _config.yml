@@ -65,7 +65,7 @@ description: >-
 purpose:
   - type: contact
     url: 'tel:00447538024295'
-    label: Call Me
+    label: Call me
   - type: contact
     url: 'mailto:info@samlittle.me.uk'
     label: Email me
