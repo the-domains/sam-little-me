@@ -1,20 +1,4 @@
-name: Sam Little
-favicon: null
-layout_spectrum: 0.42544079618528485
 typography_spectrum: 0.5213843190576881
-title: Sam Little
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-39145417-5
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,62 @@ color:
   lightness: 0.8576691171620041
   saturation: 0.8708170084282756
   rhythmicContrast: 0.8290638490580022
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.42544079618528485
+analytics:
+  google: UA-39145417-5
+  facebook: null
+  twitter: null
+author:
+  name: Sam Little
+  email: Sam@changeswelcome.co.uk
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2255c19-6130-499e-b8dc-6caa7e90157a.png
+name: Sam Little Me UK
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc3efe0-634a-4939-ad44-2ac299d90ab3.png
+title: Sam Little
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/932a7ab7-89c4-4f3d-95ce-a15d18e857c2.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/932a7ab7-89c4-4f3d-95ce-a15d18e857c2.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Clinical Hypnotherapist Bristol & Gloucestershire
+purpose:
+  - type: contact
+    url: 'tel:07538024295'
+    label: Call Me
+  - type: contact
+    url: 'mailto:Sam@changeswelcome.co.uk'
+    label: Email Me
+github: true
+content_rating:
+  adult: false
