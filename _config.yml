@@ -62,7 +62,10 @@ description: >-
   Getting People a Better Deal From Life, Home, Business & Pleasure through
   Solution Focused Mindset & Technology Tools that affect the way we Think, Do,
   Focus & Succeed.
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:00447538024295'
+    label: Call Me
 github: true
 content_rating:
   adult: false
