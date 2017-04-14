@@ -66,6 +66,9 @@ purpose:
   - type: contact
     url: 'tel:00447538024295'
     label: Call Me
+  - type: contact
+    url: 'mailto:info@samlittle.me.uk'
+    label: Email me
 github: true
 content_rating:
   adult: false
