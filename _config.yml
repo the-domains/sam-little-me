@@ -59,10 +59,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Clinical Hypnotherapist Bristol & Gloucestershire
-purpose:
-  - type: contact
-    url: 'mailto:Sam@changeswelcome.co.uk'
-    label: Email Me
+purpose: []
 github: true
 content_rating:
   adult: false
