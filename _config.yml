@@ -61,9 +61,6 @@ content:
 description: Clinical Hypnotherapist Bristol & Gloucestershire
 purpose:
   - type: contact
-    url: 'tel:07538024295'
-    label: Call Me
-  - type: contact
     url: 'mailto:Sam@changeswelcome.co.uk'
     label: Email Me
 github: true
