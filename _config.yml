@@ -58,7 +58,10 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Clinical Hypnotherapist Bristol & Gloucestershire
+description: >-
+  Getting People a Better Deal From Life, Home, Business & Pleasure through
+  Solution Focused Mindset & Technological Tools that affect the way we Think,
+  Do, Focus & Succeed.
 purpose: []
 github: true
 content_rating:
